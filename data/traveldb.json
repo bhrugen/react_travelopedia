@@ -23,6 +23,12 @@
       "city": "test1",
       "country": "rews",
       "daysNeeded": 4
+    },
+    {
+      "id": 59.89504606684082,
+      "city": "Bhrugen",
+      "country": "Test country",
+      "daysNeeded": 3
     }
   ]
 }
